@@ -1,0 +1,9 @@
+package com.housemate.domain;
+
+public enum PaymentStatus {
+
+	PENDING,
+    PROCESSING,
+    COMPLETED,
+    FAILED
+}
